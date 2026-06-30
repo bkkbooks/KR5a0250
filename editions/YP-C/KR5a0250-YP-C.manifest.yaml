@@ -1,0 +1,112 @@
+canonical_identifier: bkk:krp/KR5a0250/YP-C/v1
+canonical_location: https://kanripo.org/bkk/KR5a0250/YP-C/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 中和集
+  date: '2015-08-28 23:43:09.091995'
+  source:
+    repository: kanripo
+    path: KR5a0250
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: YP-C
+    label: 【原版道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0250_000-YP-C.yaml, hash: 'sha256:aa7a81955adce7317fc124e91c851b178604747929ed94ad579539f03f518926'}
+  - {seq: 1, filename: KR5a0250_001-YP-C.yaml, hash: 'sha256:4a6408df28772bfa110884685a2da8d3c508fa3a2969296692bf893590f1df18'}
+  - {seq: 2, filename: KR5a0250_002-YP-C.yaml, hash: 'sha256:52e9a54be8bafc50f02402f0da89b9001d3cad8390d9e68d338f7ca6c83f80dc'}
+  - {seq: 3, filename: KR5a0250_003-YP-C.yaml, hash: 'sha256:bd479db232b325856212baec2c49082a573c8b241fd7c0e166c8bd952eac0e65'}
+  - {seq: 4, filename: KR5a0250_004-YP-C.yaml, hash: 'sha256:ad820d56a9262a581e97d445e56bab8b54a5c478d2ce593ed76451fcf0472294'}
+  - {seq: 5, filename: KR5a0250_005-YP-C.yaml, hash: 'sha256:61d915d4de3d1e0f7a0291eb504545b7b38cb6be35d45e4a6085fb3b45bcdd1b'}
+  - {seq: 6, filename: KR5a0250_006-YP-C.yaml, hash: 'sha256:1127c559e1d57d2aac046f40e8841b5f8892958877374484e3467ad418e10acc'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5a0250_000-YP-C.markers.yaml, hash: 'sha256:4a6d05d1f9d92f6fd64c25c76bb0d49cb8bb62e51b0b7433c4a8b529295d3421'}
+  - {seq: 1, role: markers, filename: assets/KR5a0250_001-YP-C.markers.yaml, hash: 'sha256:441d39e8a49ba6c8b0ad9c40d3d112e05c417fb2218d0c52df22b8a818d81708'}
+  - {seq: 2, role: markers, filename: assets/KR5a0250_002-YP-C.markers.yaml, hash: 'sha256:ef3b52baf6f58307dc1cbf1ff4d7878aac972be4d694f29c08b379d553ffa4db'}
+  - {seq: 3, role: markers, filename: assets/KR5a0250_003-YP-C.markers.yaml, hash: 'sha256:a29cfc6c7172981ae746d3ca18b8f1de4be7299144a24b15cdb7785ab19e7ced'}
+  - {seq: 4, role: markers, filename: assets/KR5a0250_004-YP-C.markers.yaml, hash: 'sha256:79f6ad07c72303555d37f736b1f937a5d7a61a812c28ae8f95ae41aa8aa1a8e9'}
+  - {seq: 5, role: markers, filename: assets/KR5a0250_005-YP-C.markers.yaml, hash: 'sha256:d4646d560d096a84fdd7c5e61c1c5d5f040b5fb3ea3d70f6f4fb29e4fdbf8de8'}
+  - {seq: 6, role: markers, filename: assets/KR5a0250_006-YP-C.markers.yaml, hash: 'sha256:8110cdaffbc81720b10ade2c3ea36c07ccebc972c29936b6d414b65690e79f4e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5a0250_YP-C_18maoji-08-0098b
+    span:
+    - body
+    - 0
+    - 224
+  label: juan 000
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5a0250_YP-C_18maoji-08-0002a
+    span:
+    - body
+    - 0
+    - 3538
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5a0250_YP-C_18maoji-08-0012b
+    span:
+    - body
+    - 0
+    - 3838
+  label: juan 002
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5a0250_YP-C_18maoji-08-0029a
+    span:
+    - body
+    - 0
+    - 10022
+  label: juan 003
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR5a0250_YP-C_18maoji-08-0051b
+    span:
+    - body
+    - 0
+    - 7881
+  label: juan 004
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR5a0250_YP-C_18maoji-08-0070a
+    span:
+    - body
+    - 0
+    - 2629
+  label: juan 005
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR5a0250_YP-C_18maoji-08-0077b
+    span:
+    - body
+    - 0
+    - 8093
+  label: juan 006
+  type: section
+  level: 1
+hash: sha256:f3286a4d04ad5d4e670849ed835f9d1eb9490fe30c9930fd0326716291fe3a1f

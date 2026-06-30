@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5a0250/CK-KZ/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 中和集敘維揚損菴蔡君志頤瑩蟾子李清菴之門人也勘破凡塵篤修仙道得清菴之殘膏賸馥編次成書題曰中和集蓋取師之靜室名也大德丙午秋謁余印可欲壽諸梓開悟後人余未啓帙先已知群妄掃空一眞呈露謂如天付之而爲命人受之而爲性至于先天太極自然金丹光照太虛不假修鍊者漏泄無餘矣可以窮神知變而深根甯極可以脫胎神化而復歸無極也抑以見道之有物混成儒之中和育物釋之指心見性此皆同工異曲咸自太極中來是故老聖常善救人佛不輕於汝等周公豈欺我哉覽是集者切忌生疑當塗南谷杜道堅書于錢塘玄元眞館
+  hash: sha256:2b61f5af93a324d5706247bba9bfa62fa2eb974dcc6b752b3d83d690e8766949
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5a0250_CK-KZ_01p098b, image: JY226/CK-KZ_JY226_01p098b.png}
+metadata:
+  title: 中和集
+  edition:
+    short: CK-KZ
+    label: 【重刊道藏輯要】
+  date: '2015-08-28 23:43:09.091995'
+  source:
+    repository: kanripo
+    path: KR5a0250/KR5a0250_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:927a11bc279c55aa5adda87748356f068f64c48409334eed1797307a657c5fac
