@@ -32,10 +32,10 @@ assets:
   markers:
   - {seq: 0, role: markers, filename: assets/KR5a0250_000-CK-KZ-jye.markers.yaml, hash: 'sha256:7fe28a8674147f08f22f65a8d0bb5ddf6dd5f46c1388f153ca4ea922d9a09d54'}
   - {seq: 1, role: markers, filename: assets/KR5a0250_001-CK-KZ-jye.markers.yaml, hash: 'sha256:998e1fc877aef8e0f1662475573c2e60d49cb04e3f1fe7f83e226d412f62353c'}
-  - {seq: 2, role: markers, filename: assets/KR5a0250_002-CK-KZ-jye.markers.yaml, hash: 'sha256:66c7faf672ce1613863ebac3f08d7be2493ee9f68d625b687d94acd5c3744a90'}
-  - {seq: 3, role: markers, filename: assets/KR5a0250_003-CK-KZ-jye.markers.yaml, hash: 'sha256:039baad44343e00932006b22645eef80251cb6c688eb68321180b154d4d95d1f'}
+  - {seq: 2, role: markers, filename: assets/KR5a0250_002-CK-KZ-jye.markers.yaml, hash: 'sha256:66b8924febe990dbc9df9a4b081e3cd82e25322db659689a829335885f323de5'}
+  - {seq: 3, role: markers, filename: assets/KR5a0250_003-CK-KZ-jye.markers.yaml, hash: 'sha256:f36ab376345a3937cc1a692659dba84123d82ba6e631db5206f46bdc7ad1bf3b'}
   - {seq: 4, role: markers, filename: assets/KR5a0250_004-CK-KZ-jye.markers.yaml, hash: 'sha256:220e1150947b4381742ae44bfcc61b56dd620dfa2b2d35e50cc0df53fa2a0b45'}
-  - {seq: 5, role: markers, filename: assets/KR5a0250_005-CK-KZ-jye.markers.yaml, hash: 'sha256:cb5e2adf489027a3c6662be868d42eb6ecd2e4c6e09d7a667fc7af775e2e07e8'}
+  - {seq: 5, role: markers, filename: assets/KR5a0250_005-CK-KZ-jye.markers.yaml, hash: 'sha256:2ec573835d092355cc331f9ce3e4c53579de34feced5a93f16d1b9ba32a9b538'}
   - {seq: 6, role: markers, filename: assets/KR5a0250_006-CK-KZ-jye.markers.yaml, hash: 'sha256:ded8ea85ec68e6f0240a98b2e8124283c18406e8e8ff2336f82152217d8f6578'}
 table_of_contents:
 - ref:
@@ -1318,4 +1318,4 @@ table_of_contents:
   label: 絕學無憂篇并叙
   type: section
   level: 2
-hash: sha256:737a56be2530705c907f0892fe3ad22b84e1d1092bf6c47d5c3cf75c92f34e3d
+hash: sha256:8661430dabe26bf474aca98b5c807cd62a307dbd96c38769cf7914536217e611

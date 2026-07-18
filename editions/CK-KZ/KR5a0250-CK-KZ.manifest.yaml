@@ -33,11 +33,11 @@ assets:
   markers:
   - {seq: 0, role: markers, filename: assets/KR5a0250_000-CK-KZ.markers.yaml, hash: 'sha256:ecb3bcec34a414bd40a4ae834686d23c17f1a9db4be1dba9b85989e508726f86'}
   - {seq: 1, role: markers, filename: assets/KR5a0250_001-CK-KZ.markers.yaml, hash: 'sha256:ae7b6f7022482881940402c5d65695e7d14af08b6aa7bbead2a44595538db612'}
-  - {seq: 2, role: markers, filename: assets/KR5a0250_002-CK-KZ.markers.yaml, hash: 'sha256:641de099995ca1c6d3585e88599f268c896e6ac6b296d9ade0f43184655c05d3'}
-  - {seq: 3, role: markers, filename: assets/KR5a0250_003-CK-KZ.markers.yaml, hash: 'sha256:5e0be2541a94cf05868bda9a3ff15c711c7ec3bf20993250c8f26507e8b3c7f8'}
-  - {seq: 4, role: markers, filename: assets/KR5a0250_004-CK-KZ.markers.yaml, hash: 'sha256:b55a3f14cf03d0262e29ba478c47f687beb2aad464bcb9a31c70f27076973013'}
-  - {seq: 5, role: markers, filename: assets/KR5a0250_005-CK-KZ.markers.yaml, hash: 'sha256:58e8428869ea659946184bce088f644d131e7e065333345a90d3b71f160989b5'}
-  - {seq: 6, role: markers, filename: assets/KR5a0250_006-CK-KZ.markers.yaml, hash: 'sha256:aac93705c40b64ccbb25311e8398c875fdc3add77959c65af0e08b748c36a04b'}
+  - {seq: 2, role: markers, filename: assets/KR5a0250_002-CK-KZ.markers.yaml, hash: 'sha256:e8e9dad97c2d1a920031bcf57abb7d90e81c0a7663e1c8c68164e258577f8fa7'}
+  - {seq: 3, role: markers, filename: assets/KR5a0250_003-CK-KZ.markers.yaml, hash: 'sha256:22afd0b54e1921b5c161063a788f49d4961c3454b2dd79e131dbe3ad898698bb'}
+  - {seq: 4, role: markers, filename: assets/KR5a0250_004-CK-KZ.markers.yaml, hash: 'sha256:d79b90f40c1fb00d8b54fbc2ac96ea4e888152f63e7ab8fb9a8c34db0e9126da'}
+  - {seq: 5, role: markers, filename: assets/KR5a0250_005-CK-KZ.markers.yaml, hash: 'sha256:1a767c103bf88efa054c207c3c6a27ce610b2ab64cb1e9cca51540c9e71bd385'}
+  - {seq: 6, role: markers, filename: assets/KR5a0250_006-CK-KZ.markers.yaml, hash: 'sha256:7319287d3ba8608ec647b0f60f9fa0d3c88c6bd2191f0dba771f53078a677e37'}
 table_of_contents:
 - ref:
     seq: 0
@@ -109,4 +109,4 @@ table_of_contents:
   label: juan 006
   type: section
   level: 1
-hash: sha256:acb5fca8f7c20e5d4e5499cf234a825d5530af3d75c3e374e93063d2c0b453f8
+hash: sha256:9cb67de656f4f83b0277003380b96c7fdf884b4cc7bb7291820d0b90e5342ac4

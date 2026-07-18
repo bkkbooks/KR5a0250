@@ -975,6 +975,7 @@ markers:
   - {type: indent, offset: 2074, content: 　　　, id: KR5a0250_krp_005-bkkind17}
   - {type: variant, offset: 2074, length: 4, content: 自得七首, CK-KZ-jye: ''}
   - {type: punctuation, offset: 2076, content: (, id: KR5a0250_krp_005-bkkpn1}
+  - {type: voice, offset: 2076, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 2078, content: ), id: KR5a0250_krp_005-bkkpn2}
   - {type: 'kr:newline', offset: 2078, content: '
 
@@ -1134,6 +1135,7 @@ markers:
   - {type: indent, offset: 2401, content: 　　　, id: KR5a0250_krp_005-bkkind19}
   - {type: variant, offset: 2401, length: 6, content: 鏡中燈二首寳, CK-KZ-jye: 寶}
   - {type: punctuation, offset: 2404, content: (, id: KR5a0250_krp_005-bkkpn3}
+  - {type: voice, offset: 2404, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 2406, content: ), id: KR5a0250_krp_005-bkkpn4}
   - {type: 'kr:newline', offset: 2406, content: '
 
@@ -1188,6 +1190,7 @@ markers:
   - {type: indent, offset: 2486, content: 　　　, id: KR5a0250_krp_005-bkkind20}
   - {type: variant, offset: 2486, length: 4, content: 詠藕二首, CK-KZ-jye: ''}
   - {type: punctuation, offset: 2488, content: (, id: KR5a0250_krp_005-bkkpn5}
+  - {type: voice, offset: 2488, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 2490, content: ), id: KR5a0250_krp_005-bkkpn6}
   - {type: 'kr:newline', offset: 2490, content: '
 
@@ -1236,6 +1239,7 @@ markers:
   - {type: indent, offset: 2570, content: 　　　, id: KR5a0250_krp_005-bkkind21}
   - {type: variant, offset: 2570, length: 4, content: 卓菴二首, CK-KZ-jye: ''}
   - {type: punctuation, offset: 2572, content: (, id: KR5a0250_krp_005-bkkpn7}
+  - {type: voice, offset: 2572, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 2574, content: ), id: KR5a0250_krp_005-bkkpn8}
   - {type: 'kr:newline', offset: 2574, content: '
 
@@ -1294,4 +1298,4 @@ markers:
 
       ', id: KR5a0250_krp_005-bkkkrnewl219}
   back: []
-hash: sha256:d47dd18f492d01acf27e22174bd30b853333d76218b5e4e17e8786d4ee4c8eea
+hash: sha256:4525c8ee518f4ffedc589885549e6d3abcc1de219160f0f60ddbfe0323c0c849

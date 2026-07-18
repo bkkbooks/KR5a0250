@@ -1189,6 +1189,7 @@ markers:
   - {type: punctuation, offset: 3000, content: (, id: KR5a0250_krp_004-bkkpn1}
   - {type: variant, offset: 3000, length: 1, content: 並, CK-KZ: 并}
   - {type: variant, offset: 3000, length: 1, content: 並, YP-C: 并}
+  - {type: voice, offset: 3000, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 3002, content: ), id: KR5a0250_krp_004-bkkpn2}
   - {type: 'kr:newline', offset: 3002, content: '
 
@@ -1953,6 +1954,7 @@ markers:
   - {type: indent, offset: 4464, content: 　　　, id: KR5a0250_krp_004-bkkind13}
   - {type: variant, offset: 4464, length: 5, content: 玄理歌二首, CK-KZ-jye: ''}
   - {type: punctuation, offset: 4467, content: (, id: KR5a0250_krp_004-bkkpn3}
+  - {type: voice, offset: 4467, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 4469, content: ), id: KR5a0250_krp_004-bkkpn4}
   - {type: 'kr:newline', offset: 4469, content: '
 
@@ -2306,6 +2308,7 @@ markers:
   - {type: punctuation, offset: 5262, content: (, id: KR5a0250_krp_004-bkkpn5}
   - {type: variant, offset: 5262, length: 1, content: 並, CK-KZ: 并}
   - {type: variant, offset: 5262, length: 1, content: 並, YP-C: 并}
+  - {type: voice, offset: 5262, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 5264, content: ), id: KR5a0250_krp_004-bkkpn6}
   - {type: 'kr:newline', offset: 5264, content: '
 
@@ -3395,4 +3398,4 @@ markers:
 
       ', id: KR5a0250_krp_004-bkkkrnewl549}
   back: []
-hash: sha256:accc733e6192bf7290dc5423e656461b2384780bf84a6302e15f06c49f85586f
+hash: sha256:048df4e6f9e8175152d564777d9e8662d524a7178398c8f393263209b623efce
